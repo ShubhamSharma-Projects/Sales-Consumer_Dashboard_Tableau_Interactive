@@ -28,3 +28,48 @@ Designed and Implemented around 15+ interactive visualization including sales tr
 - Enabled real-time filtering and drill down across multiple business dimension such as region,category,year etc
 - optimized dashboard usability,reporting effiency,reduced manual analysis effort by 50-60%
 
+## Dashboard Features
+**1.** Developed interactive cross-dashboard navigation allowing users to smoothly transition between sales and consumer dashboards,enhancing efficiency ,analytical workflow and user experience
+
+**2.** Interactive Dashboard with dynamic filters for region ,product category,etc
+
+**3.** Designed year wise performance analysis view to track Total Sales,Total Profit and Total quantity on a monthly basis with comapritive analysis against previous Year
+
+**4.** Highlited the highest and lowest monthly sales period for each year to support trend identification and performance evaluation. 
+
+**5.** Developed sub-categories with lower sales compared to the previous year,enabling quick identification of declining business segment and improvement oppurtunities
+
+## 🛠️Skills & Tools Used
+ ### Tools
+ - Tableau
+ - Microsoft Excel
+ - SQL
+
+ ### Technical Skills
+ - Data Modelling
+ - Dashboard Development
+ - KPI Tracking and Analysis
+ - Calculated Field & Analysis
+ - Comparative & Trend Analysis
+ - Data Visualization
+
+## Results & Insight
+- Identified top- perfomring product category and consumers contributing approximately 35-40% of the overall revenue
+- Discovered regional sales variations and customers purchasing trend through comparative analysis
+- Improved reporting efficiency by reducing manual analysis effort by 50-60%
+- Enabled decision-making capabilities by providing centralized and real time business insight
+- improved visisbility into consumers behavior patterns,supporting more targeted business and marketing strategies.
+
+## Business Recommendations
+- Company should Reduce dependency on  underperforming sub-categories like Fastners,labels etc,as their sales contribution stays below average and profit is minimal
+- Strenght customer retention and upselling initiatives targeting top customer such as RAYMOND BUCH,HUNTER LOPEZ,who generates sales values $10K individually
+- Introduction of loyalty programs,Discount offers to increase repeat purchase  and personalized engagement stratergies,as customer distribution analysis indicates over 55% of customer place only 1-2 order 
+-The high-sales but low profit margin products pricing and discount strategy should be improved to stop revenue leakage
+
+## Dashboard Sceenshots
+
+
+
+
+ 
+
