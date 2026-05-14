@@ -68,8 +68,8 @@ Designed and Implemented around 15+ interactive visualization including sales tr
 
 ## Dashboard Sceenshots
 
-<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="250" height="250" />
-![image alt](https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png)
+<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="400" />
+<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="400" />
 
 
 
