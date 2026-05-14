@@ -54,19 +54,20 @@ Designed and Implemented around 15+ interactive visualization including sales tr
  - Data Visualization
 
 ## Results & Insight
-- Identified top- perfomring product category and consumers contributing approximately 35-40% of the overall revenue
-- Discovered regional sales variations and customers purchasing trend through comparative analysis
-- Improved reporting efficiency by reducing manual analysis effort by 50-60%
-- Enabled decision-making capabilities by providing centralized and real time business insight
-- improved visisbility into consumers behavior patterns,supporting more targeted business and marketing strategies.
+- Identified **top-perfomring** product category and consumers contributing approximately **35-40%** of the **overall revenue**
+- Discovered **regional sales variations** and **customers purchasing trend** through **comparative analysis**
+- Improved reporting efficiency by **reducing manual analysis effort by 50-60%**
+- Identified the **low-performing product against last year**,on a monthly basis explored the sales to get the  **highest and lowest sales month**
+- **improved visisbility** into consumers behavior patterns,supporting more **targeted business and marketing strategies**.
 
 ## Business Recommendations
 - Company should Reduce dependency on  underperforming sub-categories like Fastners,labels etc,as their sales contribution stays below average and profit is minimal
 - Strenght customer retention and upselling initiatives targeting top customer such as RAYMOND BUCH,HUNTER LOPEZ,who generates sales values $10K individually
 - Introduction of loyalty programs,Discount offers to increase repeat purchase  and personalized engagement stratergies,as customer distribution analysis indicates over 55% of customer place only 1-2 order 
--The high-sales but low profit margin products pricing and discount strategy should be improved to stop revenue leakage
+- The high-sales but low profit margin products pricing and discount strategy should be improved to stop revenue leakage
 
 ## Dashboard Sceenshots
+
 
 
 
