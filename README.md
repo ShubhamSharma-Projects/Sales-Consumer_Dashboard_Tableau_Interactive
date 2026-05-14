@@ -67,9 +67,10 @@ Designed and Implemented around 15+ interactive visualization including sales tr
 - The high-sales but low profit margin products pricing and discount strategy should be improved to stop revenue leakage
 
 ## Dashboard Sceenshots
-
-<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="400" />
-<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="400" />
+<p align="center">
+ <img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="400" />
+<p align="center">
+ <img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="400" />
 
 
 
