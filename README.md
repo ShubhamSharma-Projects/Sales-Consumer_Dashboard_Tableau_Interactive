@@ -1,6 +1,6 @@
 # Sales & Consumer Dynamic_Dashboard - Tableau_Sales & Retail Analytics
-## Executive Summary   
-### *🧩Problem Statement*
+## 📊Executive Summary   
+### *Problem Statement*
  Company often struggles to analyze large volumes of sales and consumer data due to **fragmented dataset,manual reporting and limited visibility** into customer and product performance
 
  Traditional spreadsheet or excel analysis makes it **difficult to identify trends,track KPIs and generate actionable insight efficently**
@@ -20,7 +20,7 @@ to enable real-time analysis of sales trend, customer behavior,regional performa
 **35-40%** of overall revenue
 - **Improved decision-making efficency** through interactive and user-driven data exploration
 
-## Methodology
+## ⚙️Methodology
 - Integrated and processed 10K+ sales and consumer transaction records from multiple dataset for centralized business analysis.
 - Used Data modeling technique to establish relationship across all the datasets,increasing data consistency and reporting accuracy.
 - Developed 12+ calculated field and paramenter-driven KPIs to enable Dynamic Business performance tracking and flexible user-driven analysis.
@@ -28,7 +28,7 @@ Designed and Implemented around 15+ interactive visualization including sales tr
 - Enabled real-time filtering and drill down across multiple business dimension such as region,category,year etc
 - optimized dashboard usability,reporting effiency,reduced manual analysis effort by 50-60%
 
-## Dashboard Features
+## 🎯Dashboard Features
 **1.** Developed interactive cross-dashboard navigation allowing users to smoothly transition between sales and consumer dashboards,enhancing efficiency ,analytical workflow and user experience
 
 **2.** Interactive Dashboard with dynamic filters for region ,product category,etc
@@ -53,14 +53,15 @@ Designed and Implemented around 15+ interactive visualization including sales tr
  - Comparative & Trend Analysis
  - Data Visualization
 
-## Results & Insight
-- Identified **top-perfomring** product category and consumers contributing approximately **35-40%** of the **overall revenue**
+## 📈Results & Insight
+- Identified **top-perfomring** product category and consumers contributing approx
+imately **35-40%** of the **overall revenue**
 - Discovered **regional sales variations** and **customers purchasing trend** through **comparative analysis**
 - Improved reporting efficiency by **reducing manual analysis effort by 50-60%**
 - Identified the **low-performing product against last year**,on a monthly basis explored the sales to get the  **highest and lowest sales month**
 - **improved visisbility** into consumers behavior patterns,supporting more **targeted business and marketing strategies**.
 
-## Business Recommendations
+## 💡Business Recommendations
 - Company should Reduce dependency on  underperforming sub-categories like Fastners,labels etc,as their sales contribution stays below average and profit is minimal
 - Strenght customer retention and upselling initiatives targeting top customer such as RAYMOND BUCH,HUNTER LOPEZ,who generates sales values $10K individually
 - Introduction of loyalty programs,Discount offers to increase repeat purchase  and personalized engagement stratergies,as customer distribution analysis indicates over 55% of customer place only 1-2 order 
@@ -72,7 +73,8 @@ Designed and Implemented around 15+ interactive visualization including sales tr
 <img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Customer%20Dashboard.png" width="400" height="600" hspace= "40" >
 </p>
 
+## 🚀Future Workk
+1. Incorporating Predictive analysis and sales forcasting model for future trend preiction
 
-
- 
+2. Deploying the dashboard on cloud platforms ot improve accessibility and collaborative reporting
 
