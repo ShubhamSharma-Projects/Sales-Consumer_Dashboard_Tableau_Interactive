@@ -29,15 +29,15 @@ Designed and Implemented around 15+ interactive visualization including sales tr
 - optimized dashboard usability,reporting effiency,reduced manual analysis effort by 50-60%
 
 ## 🎯Dashboard Features
-**1.** Developed interactive cross-dashboard navigation allowing users to smoothly transition between sales and consumer dashboards,enhancing efficiency ,analytical workflow and user experience
+**1.** Developed interactive **cross-dashboard navigation allowing users to smoothly transition between sales and consumer dashboards**,enhancing efficiency ,analytical workflow and user experience
 
-**2.** Interactive Dashboard with dynamic filters for region ,product category,etc
+**2.** Interactive Dashboard with **dynamic filters** for region ,product category,etc
 
-**3.** Designed year wise performance analysis view to track Total Sales,Total Profit and Total quantity on a monthly basis with comapritive analysis against previous Year
+**3.** Designed **year wise performance analysis** view to track Total Sales,Total Profit and Total quantity on a **monthly basis with comapritive analysis against previous Year**
 
-**4.** Highlited the highest and lowest monthly sales period for each year to support trend identification and performance evaluation. 
+**4.** Highlited the **highest and lowest monthly sales period for each year** to support trend identification and performance evaluation. 
 
-**5.** Developed sub-categories with lower sales compared to the previous year,enabling quick identification of declining business segment and improvement oppurtunities
+**5.** Developed **sub-categories with lower sales compared to the previous year**,enabling quick identification of declining business segment and improvement oppurtunities
 
 ## 🛠️Skills & Tools Used
  ### Tools
