@@ -69,8 +69,8 @@ imately **35-40%** of the **overall revenue**
 
 ## Dashboard Sceenshots
 <p>
-<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="400" height="600" hspace= "40" >
-<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Customer%20Dashboard.png" width="400" height="600" hspace= "40" >
+<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Sales%20Dashboard.png" width="300" height="500" hspace= "30" >
+<img src= "https://github.com/ShubhamSharma-Projects/Sales-Consumer_Dashboard_Tableau_Interactive/blob/main/Images/Customer%20Dashboard.png" width="300" height="500" hspace= "30" >
 </p>
 
 ## 🚀Future Workk
